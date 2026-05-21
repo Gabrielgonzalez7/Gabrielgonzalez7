@@ -1,5 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Gabriel Gonzalez</h1>
-<h3 align="center">Estudante de Ciência da Computação!🚀</h3>
+
+<h3 align="center">
+🎓 Estudante de Ciência da Computação • 💻 Desenvolvedor em evolução
+</h3>
 
 ---
 
@@ -28,6 +31,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 <img align="center" alt="Python" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
+<img align="center" alt="Java" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
 <img align="center" alt="C" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
@@ -49,16 +55,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielgonza
 
 </a>
 
-</div>
-
----
-
-### 🌎 Redes e Contato
-
-<div>
-<a href="https://github.com/Gabrielgonzalez7" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-</a>
 </div>
 
 ---
