@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Gabriel Gonzalez</h1>
+<h1 align="center">Gabriel Gonzalez</h1>
 
 <h3 align="center">
 🎓 Estudante de Ciência da Computação • 💻 Desenvolvedor em evolução
